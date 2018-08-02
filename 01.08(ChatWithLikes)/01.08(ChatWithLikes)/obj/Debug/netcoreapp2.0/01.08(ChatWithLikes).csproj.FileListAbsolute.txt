@@ -1,0 +1,11 @@
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\bin\Debug\netcoreapp2.0\01.08(ChatWithLikes).deps.json
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\bin\Debug\netcoreapp2.0\01.08(ChatWithLikes).runtimeconfig.json
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\bin\Debug\netcoreapp2.0\01.08(ChatWithLikes).runtimeconfig.dev.json
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\bin\Debug\netcoreapp2.0\01.08(ChatWithLikes).dll
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\obj\Debug\netcoreapp2.0\01.08(ChatWithLikes).csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\obj\Debug\netcoreapp2.0\01.08(ChatWithLikes).AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\obj\Debug\netcoreapp2.0\01.08(ChatWithLikes).AssemblyInfo.cs
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\bin\Debug\netcoreapp2.0\01.08(ChatWithLikes).pdb
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\obj\Debug\netcoreapp2.0\01.08(ChatWithLikes).dll
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\obj\Debug\netcoreapp2.0\01.08(ChatWithLikes).pdb
+C:\Users\Вадим\source\repos\01.08(ChatWithLikes)\01.08(ChatWithLikes)\obj\Debug\netcoreapp2.0\01.08(ChatWithLikes).csprojResolveAssemblyReference.cache
